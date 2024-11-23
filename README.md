@@ -70,7 +70,7 @@ Siga os passos abaixo para configurar o projeto em sua máquina local:
 
 1. **Acessando o Aplicativo**
 
-   - Abra o navegador e vá para `http://localhost:8000`.
+  - Abra o navegador e vá para `http://localhost:8000`.
 
 2. **Escolhendo Valores e Operações**
 
