@@ -2,11 +2,11 @@
 
 ## Descrição
 
-O **Math-X** é um bloco de notas online desenvolvido em Laravel. Com uma interface intuitiva, ele permite que os usuários criem, editem e organizem suas anotações de maneira eficiente.
+O **Math-X** é um gerador de exercicios exercícios de matemática com as 4 principais operações. Além de fornecer as respostas e permitir que o usuário faça download delas como arquivo txt. 
 
 ## Imagem do Projeto 📸
 
-![Math-X](public/assets/images/notes.png)
+![Math-X](public/assets/images/Math-X.png)
 
 ## Pré-requisitos
 
