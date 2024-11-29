@@ -27,7 +27,7 @@ Siga os passos abaixo para configurar o projeto em sua máquina local:
 
    - Abra o terminal e execute:
      ```bash
-     git clone https://github.com/Gugaluis/Notes-Laravel.git
+     git clone https://github.com/Gugaluis/Math-X
      cd notes
      ```
 
